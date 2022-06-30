@@ -1,0 +1,7 @@
+yagmail~=0.14.245
+configparser~=5.0.2
+pytest~=6.2.2
+py~=1.10.0
+selenium~=3.141.0
+
+PyMySQL~=1.0.2
